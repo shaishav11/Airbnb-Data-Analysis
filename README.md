@@ -4,11 +4,11 @@ Data Set source: http://insideairbnb.com/get-the-data.html
 Aim of this project is to analysis Amsterdam’s Airbnb data set to predict price by implementing various algorithms. Tools used for this project are Python, Tableau. 
 
 Following steps were performed:
-1.	Data Cleaning
+1.  Data Cleaning
 2.	Data Exploration and Pre-processing
 3.	Price Prediction Model: 
-  3.1 Linear Regression with feature selection
-  3.2 Random Forest
+    1. Linear Regression with feature selection
+    2. Random Forest
 4.	Published tableau dashboard online which can be used to compare metrics such as market averages and listing performance across multiple listings over time https://public.tableau.com/profile/shaishav.shah#!/vizhome/srs1/AirbnbAmsterdam
 
 Conclusion: 
