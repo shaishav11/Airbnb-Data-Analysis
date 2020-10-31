@@ -20,4 +20,6 @@ Conclusion:
 6.  Least expensive accommodations are available in Bijlmer-Oost followed by Gaasperdam – Driemond. 
 7.  Most properties are available in the range of 100 USD to 180 USD per night with an average of approximately 140 USD
 
+
+<br> Preview of Dashboard </br>
 ![Tableau Dashboard](https://github.com/shaishav11/Airbnb-Data-Analysis/blob/master/Tableau_Dashboard_Airbnb_Screenshot.png)
